@@ -10,6 +10,18 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "SmartGameStatus",
+			"Enabled": true
+		},
+		{
+			"Name": "SmartGameSettings",
+			"Enabled": true
+		},
+		{
+			"Name": "SmartModularUI_Plugin",
+			"Enabled": true
 		}
 	]
 }
