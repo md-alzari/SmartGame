@@ -26,6 +26,10 @@
 		{
 			"Name": "SmartMultiplayerChat",
 			"Enabled": true
+		},
+		{
+			"Name": "SmartNavigationUI",
+			"Enabled": true
 		}
 	]
 }
